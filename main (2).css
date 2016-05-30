@@ -1,0 +1,32 @@
+body{
+	background-color: rgba(230,230,230,1);
+}
+.main{
+	width:80%;
+	margin: 40px auto;
+}
+
+.dzax{
+	float: left;
+	width: 33%;
+}
+.aj{
+	float: right;
+	width: 66%;
+}
+.nkar1{
+	float: left;
+	margin-left:70px;
+}
+img{
+	width:150px;
+}
+.button{
+	color:black;
+	background-color:rgba(230,230,230,1);
+	border:5px solid black;
+	text-align:center;
+	padding:10px;
+	font-size:20px;
+}
+
